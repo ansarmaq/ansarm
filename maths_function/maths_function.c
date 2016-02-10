@@ -41,7 +41,7 @@ int main()
     char op;
 
     do {
-       printf("number  op  number?  ");
+       printf("number  op  numb?  ");
        scanf(" %f %c %f", &a, &op, &b);
        switch (op)
        {
