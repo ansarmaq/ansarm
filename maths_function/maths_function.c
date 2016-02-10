@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 //This is the line causing issue in the master branch
+=======
+//This is the line causing issue in the conflict branch
+>>>>>>> conflict
 
 float add (float x, float y)
 {
