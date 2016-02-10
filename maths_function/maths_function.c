@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//This is the line causing issue in the conflict branch
+
 float add (float x, float y)
 {
     return x + y;
